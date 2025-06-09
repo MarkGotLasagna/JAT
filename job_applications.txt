@@ -1,0 +1,103 @@
+- Home -
+Pegognaga, Mantova, Italy
+B driving license
+
+- Notes -
+ - {OFFICE} 120km range limit
+ - {HYBRID} Northern Italy limit
+ - {REMOTE} European Union limit
+ - https://sankeymatic.com/build/
+
+---
+
+[[applications]]
+[no_answer]
+001. MUTTI - IT Network Specialist {OFFICE}
+002. Cool Technology SRLS - IT Specialist Neolaureati/e Microsoft Technologies {REMOTE}
+003. Graphimecc Group SRLS - Tecnico sistemista {OFFICE}
+004. Fresenius Kabi Italia - Computer System Validation {OFFICE}
+005. Adecco Permanent Recruitment - Information Technology System Administrator {HYBRID}
+006. EcorNauraSi - Specialista Help Desk IT {OFFICE}
+007. Coemar Lighting SRL - Addetto Sviluppo Software {OFFICE}
+008. DIAMANT SRL - Specialista IT {OFFICE}
+009. INDACO PROJECT SRL - Sviluppatore/Sviluppatrice firmware {HYBRID}
+010. HS Company - Tecnico informatico field {IN OFFICE}
+011. AMICA CHIPS SPA - Tecnico informatico {OFFICE}
+012. Lynx SPA - Sistemista OS Unix {REMOTE}
+013. Canonical - Junior Linux Kernel Engineer - Ubuntu {REMOTE}
+014. Alti Profili - SISTEMISTA {OFFICE}
+015. Lynx SPA - Subscription Renewals Specialist for IT Products {REMOTE}
+016. Trans World Shipping SPA - Tecnico informatico {OFFICE}
+017. Gruppo Euris SPA - Consulente Applicativo Linux Atlassian Solutions {REMOTE}
+018. S&h - IoT Developer {OFFICE}
+019. Gruppo Intergea Move - Junior IT Specialist {OFFICE}
+020. UMANA SPA - Tecnico informatico {OFFICE}
+021. Grafton Recruitment - Help Desk IT {HYBRID}
+022. Adecco (??) - Helpdesk IT {OFFICE}
+023. ASEM SRL - Software Engineer {HYBRID}
+024. FOTOSMILE - Tecnico IT Sistemista {OFFICE}
+025. YouCo - Sistemista Open Microsoft {HYBRID}
+026. ALTEN Italia - Junior Software Developer - AEROSPACE {OFFICE}
+027. ADENTIS Italia - Sistemista Linux {HYBRID}
+028. Teoresi Group - Software Engineer LabVIEW {HYBRID}
+029. Softech - Software Engineer {OFFICE}
+030. SYSTEMAWEB - Software Engineer {OFFICE}
+031. ONORATOINFORMATICA - Software Engineer {OFFICE}
+032. GLOBALINFORMATICA - Software Engineer {OFFICE}
+033. MSC SELECTIONS & SOLUTIONS - ICT Specialist Junior (MO) PXM 203777 {OFFICE}
+034. VERSYA SPA - Sistemista IT {OFFICE}
+035. Area IT Group - Sistemista Linux VMWare Windows Applicativo Storage Backup Networking {REMOTE}
+036. Lynx 2000 - Tecnico Sistemista {OFFICE}
+037. C.S.A. - Sistemista Informatico {OFFICE}
+038. Parco Natura Viva SRL - IT Specialist {OFFICE}
+039. Cami SRL - DBA {OFFICE}
+040. Risorse SPA - Sistemista e Tecnico Hardware Settore Retail {OFFICE}
+041. ION - System Engineer Control Room, Italy {HYBRID}
+042. Herzum - Middle System Administrator VMware / Linux {HYBRID}
+043. Mediatica Digital SPA - Sistemista LINUX {REMOTE}
+044. Spectrummedical SPA - ?? {??}
+045. Leotron - Tecnico Informatico {OFFICE}
+046. EPSOL SRL - Tecnico Informatico {OFFICE}
+047. dormakaba Italia - Tecnico informatico {HYBRID}
+048. Grafton Recruitment - Sistemista Windows {HYBRID}
+049. Adecco (??) - Tecnico informatico {HYBRID}
+050. Veronafiere - Sistemista Junior {OFFICE}
+051. Evosolution Srl - PROGRAMMATORE SOFTWARE {HYBRID}
+052. Socage - Specialista IT {OFFICE}
+053. OTS spa - SISTEMISTA LINUX {HYBRID}
+054. Zucchetti - Sistemista Datacenter {HYBRID}
+055. Kyndryl - System Administrator (Linux) {HYBRID}
+056. SKYBACKBONE srl - IT System Administrator Service Desk Team {HYBRID}
+057. Gruppo Ciicai - Tecnico Informatico {OFFICE}
+058. Cami SRL - TECNICO ASSISTENZA HW E SW {OFFICE}
+059. UMANA spa - TECNICO INFORMATICO | ELETTRONICO {OFFICE}
+060. RMB spa - Sistemista informatico {OFFICE}
+061. Lavoropiu Spa - Sistemista {OFFICE}
+062. MAXSTONE RLS - TENCICO MANUTENTORE IT {OFFICE}
+063. Eurospin Italia S.p.A. - JUNIOR IT focus Logistica Verona {HYBRID}
+064. AXL Spa - SISTEMISTA INFORMATICO - TECNICO/A IT {OFFICE}
+065. Holding Intergea Nord Est Mantova, Lombardia - Junior IT Specialist {OFFICE}
+066. UMANA - TECNICO INFORMATICO JUNIOR {HYBRID}
+
+
+[rejected]
+001. NVENT - Software Engineer/IT specialist {OFFICE}
+002. MAT Technology SRLS - Tecnico informatico {OFFICE}
+003. SNG Group - Posizione IT Junior {OFFICE}
+004. Tecnologie SRL - Sistemista Informatico {OFFICE}
+005. COMPUTERS CENTER SNC - Tecnico Sistemista {OFFICE}
+006. DOTECO Art of Control - ICT Specialist Junior {OFFICE}
+007. Advancia Technology - Data Analyst Data Engineer Jr {HYBRID}
+
+[[1st]]
+[no offer]
+001. Karcher - Business Intelligence Specialist (m/f/d) {HYBRID}
+002. ReplicaSistemi ZUCCHETTI Group - Sistemista/Help desk {HYBRID}
+003. MAKRO Labelling SRL - Ingegnere Informatico Automation & Vision {OFFICE}
+
+[[2nd]]
+[offers]
+[accepted]
+
+[declined]
+001. KONECTA - Sistemista Midrange {OFFICE}

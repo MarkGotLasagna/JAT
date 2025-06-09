@@ -1,0 +1,34 @@
+# TXT converted to YAML
+applications:
+    no_asnwer:
+        - name: MUTTI SRL
+          position: IT Network Specialist
+          type: Office
+          location: Parma
+        - name: Cool Technology SRLS
+          position: IT Specialist Neolaureati/e Microsoft Technologies
+          type: Remote
+          location: Parma
+    rejected:
+        - name: NVENT
+          position: Software Engineer/IT speciliast
+          type: Office
+          location: Pegognaga
+        - name: MAT Technology SRLS
+          position: Tecnico informatico
+          type: Office
+          location: Parma
+first:
+    no_offer:
+        - name: Karcher
+          position: Business Intelligence Specialist (m/f/d)
+          type: Hybrid
+          location: Quistello
+second:
+    offers: []
+    accepted: []
+    declined:
+        - name: KONECTA
+          position: Sistemista Midrange
+          type: Office
+          location: Colecchio

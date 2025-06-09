@@ -1,0 +1,42 @@
+[applications]
+
+  [[applications.no_asnwer]]
+  name = "MUTTI SRL"
+  position = "IT Network Specialist"
+  type = "Office"
+  location = "Parma"
+
+  [[applications.no_asnwer]]
+  name = "Cool Technology SRLS"
+  position = "IT Specialist Neolaureati/e Microsoft Technologies"
+  type = "Remote"
+  location = "Parma"
+
+  [[applications.rejected]]
+  name = "NVENT"
+  position = "Software Engineer/IT speciliast"
+  type = "Office"
+  location = "Pegognaga"
+
+  [[applications.rejected]]
+  name = "MAT Technology SRLS"
+  position = "Tecnico informatico"
+  type = "Office"
+  location = "Parma"
+
+[first]
+  [[first.no_offer]]
+  name = "Karcher"
+  position = "Business Intelligence Specialist (m/f/d)"
+  type = "Hybrid"
+  location = "Quistello"
+
+[second]
+offers = []
+accepted = []
+
+  [[second.declined]]
+  name = "KONECTA"
+  position = "Sistemista Midrange"
+  type = "Office"
+  location = "Colecchio"
